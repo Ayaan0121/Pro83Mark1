@@ -1,0 +1,60 @@
+.body_backgorund {
+    background-image: url("paint323.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  #yo1{
+  
+    color: royalblue;
+    font-size: medium;
+    font-weight: bold;
+  }
+  #yo{
+    
+    color: royalblue;
+    font-size: medium;
+    font-weight: bold;
+  }
+  #explain{
+    font-weight: bold;
+    font-size: large;
+    color: yellow;
+  }
+  #colour{
+    margin-right: 20px;
+
+  }
+  
+  #widthOfLine{
+    margin-right: 20px;
+  }
+  #heading{
+    font-family: 'Mate SC', serif;
+  }
